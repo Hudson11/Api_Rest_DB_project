@@ -1,1 +1,1 @@
-* tutorial em -> https://medium.com/@hudsonhdj36/api-rest-com-nodejs-e-mongodb-43be245774d9?sk=2edc2a0d6c6cfa0b32ed272c0178cb57
+* Aritgo em -> https://medium.com/@hudsonhdj36/firebase-vs-mongodb-atlas-api-rest-com-nodejs-e-express-1967f9550e63
